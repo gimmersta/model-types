@@ -1,0 +1,40 @@
+# Vendor files
+/vendor/
+auth.json
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Laravel specific
+bootstrap/compiled.php
+app/storage/
+public/storage
+public/hot
+public_html/storage
+public_html/hot
+
+# Settings
+.env
+.env*
+Homestead.yaml
+Homestead.json
+.npmrc
+
+# Generated files/folders
+.DS_Store
+TAGS
+public/mix-manifest.json
+public/css
+public/js
+public/webfonts/
+public/vendor/
+public/build/
+storage/*.key
+storage/**
+/.vagrant
+.phpunit.result.cache
+.idea
+.php_cs.cache
+support
+/storage/debugbar/
+

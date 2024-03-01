@@ -5,9 +5,9 @@
     "keywords": ["gimmersta"],
     "license": "MIT",
     "require": {
-        "php": "^8.0",
-        "laravel/framework": "^8.0|^9.19",
-        "doctrine/dbal": "^2.6"
+        "php": "^8.2",
+        "laravel/framework": "^9.19|^10.0",
+        "doctrine/dbal": "^3.0"
     },
     "config": {
         "optimize-autoloader": true,
